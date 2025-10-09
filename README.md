@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información del estudiante
+## Información de la estudiante
 Yoseline Lizeth Puentes Hernandez \[22212265]; l22212265@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
